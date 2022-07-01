@@ -9,10 +9,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 9aab3744b4bee03f78b4d301edc98efd13922647
+source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 84%
+source-wordcount: '290'
+ht-degree: 76%
 
 ---
 
@@ -21,6 +21,10 @@ ht-degree: 84%
 Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten der SFTP-Datenspeicherung nach Instanz oder das Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
 
 ## Neue Funktionen
+
+* **[Control Panel für hybride Hosting-Modelle](/help/control-panel-for-hybrid-hosting-models.md)**
+
+   *Erfahren Sie, wie Sie das Control Panel für Hybrid-Hosting-Modelle von Adobe Campaign aktivieren, auf das Control Panel zugreifen und wichtige Funktionen entsperren.*
 
 * **[Überwachen von Workflows](/help/performance-monitoring/monitor-workflows.md)**
 
