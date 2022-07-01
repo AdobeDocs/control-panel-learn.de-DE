@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: d12902547ffde67838b326c93162d0937ff438a6
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '277'
+ht-degree: 44%
 
 ---
 
@@ -44,6 +44,18 @@ Im folgenden Video erfahren Sie, wie Sie ein Certificate Signing Request im Cont
 
 *Certificate Signing Requests generieren (02:36 Min.)*
 
+>[!NOTE]
+>
+>An der CSR-Generierung wurden verschiedene Verbesserungen vorgenommen:
+>
+>* Beim Generieren einer CSR können Sie jetzt eine der eingeschlossenen Subdomains als allgemeinen Namen auswählen.
+>* Sie können jetzt die CSR-Zusammenfassung kopieren, bevor Sie die CSR generieren.
+>* Nachdem eine CSR generiert wurde, können Sie sie erneut aus den Auftragsprotokollen herunterladen. Diese Funktion gilt nicht für Zertifikate, die vor dieser Version generiert wurden.
+>
+>![CSR herunterladen](/help/assets/download-csr.gif)
+>
+>Siehe [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=en) , um mehr zu erfahren.
+
 ### 2- SSL-Zertifikat kaufen
 
 Nach Erhalt des CSR müssen Sie das SSL-Zertifikat von einer Zertifizierungsstelle erwerben, die von Ihrem Unternehmen genehmigt wurde.
@@ -57,3 +69,5 @@ Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Pane
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
 *SSL-Zertifikate installieren (01:25 Min.)*
+
+
