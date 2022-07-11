@@ -7,9 +7,9 @@ feature: Control Panel
 role: Admin
 level: Experienced
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 81%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 81%
 + [Control Panel für hybride Hosting-Modelle](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-Verwaltung {#sftp-management}
    + [Überwachen der Server-Kapazität](/help/sftp-management/monitor-server-capacity.md)
-   + [IP-Bereiche der Zulassungsliste](/help/sftp-management/allowlist-ip-range.md)
+   + [IP-Bereiche auf der Zulassungsliste](/help/sftp-management/allowlist-ip-range.md)
    + [Erzeugen eines SSH-Schlüssels](/help/sftp-management/generate-ssh-key.md)
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/sftp-management/connect-to-sftp-server.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
@@ -30,7 +30,7 @@ ht-degree: 81%
    + [Hinzufügen von SSL-Zertifikaten](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Verwaltung von Google TXT-Einträgen](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Instanzeneinstellungen {#instance-settings}
-   + [IP-Adressen der Zulassungsliste](/help/instance-settings/allowlist-ip-adresses.md)
+   + [IP-Adressen auf der Zulassungsliste](/help/instance-settings/allowlist-ip-adresses.md)
    + [Hinzufügen von URL-Berechtigungen](/help/instance-settings/add-url-permissions.md)
    + Verwaltung von GPG-Schlüsseln {#gpg-key-management}
       + [Verwaltung von GPG-Schlüsseln – Übersicht](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
@@ -40,5 +40,5 @@ ht-degree: 81%
 + Leistungsüberwachung {#performance-monitoring}
    + [Überwachen von Datenbanken](/help/performance-monitoring/monitor-databases.md)
    + [Überwachen von Workflows](/help/performance-monitoring/monitor-workflows.md)
-   + [Durchsätze und Latenz überwachen](/help/performance-monitoring/monitor-throughputs-and-latency.md)
+   + [Überwachen von Durchsätzen und Latenz](/help/performance-monitoring/monitor-throughputs-and-latency.md)
 + [Fehlerbehebung im Control Panel](/help/trouble-shooting.md)
