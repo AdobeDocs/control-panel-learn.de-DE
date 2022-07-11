@@ -10,9 +10,9 @@ role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
 source-git-commit: 54bc494e991f14e35813d37f240f78c30148803e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '290'
-ht-degree: 76%
+ht-degree: 100%
 
 ---
 
@@ -30,9 +30,9 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren 
 
    *Erfahren Sie, wie Sie die temporäre Speicherverwendung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
 
-* **[Durchsätze und Latenz überwachen](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
+* **[Überwachen von Durchsätzen und Latenz](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
 
-   *Erfahren Sie, wie Sie den Versanddurchsatz und die Latenz von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
+   *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
 
 Weitere Informationen zu den neuesten Produktversionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de).
 
