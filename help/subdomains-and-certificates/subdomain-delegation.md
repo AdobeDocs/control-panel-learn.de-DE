@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
+source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
 workflow-type: tm+mt
 source-wordcount: '107'
-ht-degree: 100%
+ht-degree: 87%
 
 ---
 
@@ -39,4 +39,4 @@ Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
 
 *Zuweisung von Subdomains (05:07 Min.)*
 
-Weitere Informationen zur Erneuerung des SSL-Zertifikats einer Subdomain finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de).
+Weitere Informationen zur Verlängerung des SSL-Zertifikats einer Subdomain finden Sie unter [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de).
