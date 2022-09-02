@@ -27,7 +27,7 @@ ht-degree: 100%
    + [Herstellen einer Verbindung zu einem SFTP-Server](/help/sftp-management/connect-to-sftp-server.md)
 + Subdomains und Zertifikate {#subdomains-and-certificates}
    + [Vollständige Subdomain-Zuweisung](/help/subdomains-and-certificates/subdomain-delegation.md)
-   + [Zuweisen von Subdomains mithilfe von CNAME](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
+   + [Delegieren von Subdomains mithilfe von CNAME](/help/subdomains-and-certificates/delegate-subdomains-using-cname.md)
    + [Hinzufügen von SSL-Zertifikaten](/help/subdomains-and-certificates/add-ssl-certificates.md)
    + [Verwaltung von Google TXT-Einträgen](/help/subdomains-and-certificates/google-txt-record-management.md)
 + Instanzeneinstellungen {#instance-settings}

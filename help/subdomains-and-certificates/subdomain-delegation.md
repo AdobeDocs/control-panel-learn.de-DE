@@ -1,6 +1,6 @@
 ---
 title: Vollständige Subdomain-Zuweisung
-description: Erfahren Sie, wie Sie eine Subdomain vollständig Adobe Campaign zuweisen.
+description: Erfahren Sie, wie Sie eine Subdomain vollständig an Adobe Campaign delegieren.
 feature: Control Panel
 kt: 4115
 thumbnail: 31390.jpg
@@ -19,7 +19,7 @@ ht-degree: 87%
 
 # Vollständige Subdomain-Zuweisung
 
-Über das Adobe Campaign [!UICONTROL Control Panel] können Sie Adobe Campaign eine Subdomain vollständig zuweisen.
+Über das Adobe Campaign [!UICONTROL Control Panel] können Sie eine Subdomain vollständig an Adobe Campaign delegieren.
 
 ## Zugreifen auf die Subdomain-Verwaltung im [!UICONTROL Control Panel]
 
@@ -31,9 +31,9 @@ Um auf die Subdomain-Verwaltung im [!UICONTROL Control Panel] zuzugreifen, navig
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Zuweisen von Subdomains
+## Delegieren von Subdomains
 
-Das folgende Video zeigt, wie Sie Subdomains zuweisen können.
+Das folgende Video zeigt, wie Sie Subdomains delegieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
