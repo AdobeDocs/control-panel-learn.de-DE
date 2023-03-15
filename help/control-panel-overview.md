@@ -2,6 +2,7 @@
 title: Control Panel – Übersicht
 description: Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten der SFTP-Datenspeicherung nach Instanz oder das Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
 landing-page-description: Mit dem Control Panel können Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten von SFTP-Datenspeicherung, GPG-Schlüsseln oder Subdomains und Zertifikaten.
+short-description: The Control Panel allows Campaign administrators to monitor key assets and perform administrative tasks, such as managing SFTP storage, GPG keys, or subdomains and certificates.
 feature: Control Panel
 doc-type: feature video
 activity: use
@@ -9,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 87675f8effe804fa902d6f60efb22e636b5386d3
+source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
 workflow-type: tm+mt
-source-wordcount: '290'
-ht-degree: 100%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
