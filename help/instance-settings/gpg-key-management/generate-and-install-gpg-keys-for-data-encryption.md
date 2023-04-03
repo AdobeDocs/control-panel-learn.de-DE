@@ -10,8 +10,8 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 63c2c26b-93bc-4424-9d9f-0b3ca6d179f6
-source-git-commit: dc31bc114b82eae4042562f292d5f52203c7e2b3
-workflow-type: tm+mt
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+workflow-type: ht
 source-wordcount: '73'
 ht-degree: 100%
 
@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Mit dem Control Panel können Sie Daten verschlüsseln, die aus Ihrer Adobe Campaign-Instanz stammen. Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar mit öffentlichem/privatem Schlüssel generieren und in einer bestimmten [!DNL Campaign]-Instanz installieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/36386?quality=12&learn=0n)
