@@ -10,10 +10,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
-source-git-commit: 3d4a302922a59bce1353ec5a68ad4a977a1e3ceb
+source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '107'
+ht-degree: 87%
 
 ---
 
@@ -35,7 +35,7 @@ oder
 
 Das folgende Video zeigt, wie Sie Subdomains delegieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12&learn=0n)
 
 *Zuweisung von Subdomains (05:07 Min.)*
 
