@@ -11,9 +11,9 @@ role: Admin
 level: Experienced
 exl-id: 86cdb284-a5a7-4ad4-a1dc-d203f75be948
 source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '49'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer [!DNL Adobe Campaign]-Insta
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12&learn=0n)
 
-Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html).
+Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=de).
