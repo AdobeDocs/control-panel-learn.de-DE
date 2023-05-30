@@ -21,7 +21,7 @@ ht-degree: 100%
 # Erste Schritte mit dem [!UICONTROL Control Panel] {#control-panel}
 
 >[!CAUTION]
-> Für Campaign v7 gelten Implementierungsbeschränkungen. [Weitere Informationen](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=de#v7-restrictions)
+> Für Campaign v7 gelten Bereitstellungsbeschränkungen. [Weitere Informationen](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=de#v7-restrictions)
 
 Mit dem [!UICONTROL Control Panel] können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. den [!DNL SFTP]-Speicher nach Instanz und [!DNL GPG]-Schlüssel bzw. [!UICONTROL Subdomains] und [!UICONTROL Zertifikaten] verwalten.
 
