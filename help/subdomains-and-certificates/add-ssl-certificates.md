@@ -2,7 +2,7 @@
 title: Hinzufügen von SSL-Zertifikaten
 description: Erfahren Sie, wie Sie SSL-Zertifikate hinzufügen, um Ihre Subdomains zu schützen.
 feature: Control Panel
-kt: 4219
+jira: KT-4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
-source-git-commit: 1b1efe35c2ddcf379d1e847064ffa8be18d276b3
+source-git-commit: af05bde1295913c93388dd014462e32afb081669
 workflow-type: ht
 source-wordcount: '277'
 ht-degree: 100%
@@ -27,7 +27,7 @@ Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Si
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **[!UICONTROL Subdomains und Zertifikate]**-Karte
 
-   oder
+  oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Schritte zum Hinzufügen von SSL-Zertifikaten
@@ -55,6 +55,7 @@ Im folgenden Video erfahren Sie, wie Sie eine Certificate Signing Request im Con
 >![CSR herunterladen](/help/assets/download-csr.gif)
 >
 >Weitere Informationen erhalten Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=de).
+>
 
 ### 2- SSL-Zertifikat kaufen
 
