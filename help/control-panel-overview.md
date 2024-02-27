@@ -10,9 +10,9 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 57a51ec2-7ac5-4e2c-bd58-e259e2acb4f1
-source-git-commit: 1e3ad983e8879252715ad4616c5541154db8eb2b
+source-git-commit: 769e31eccbfd543345fc43a5615fa7dbab134e21
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '219'
 ht-degree: 100%
 
 ---
@@ -20,23 +20,6 @@ ht-degree: 100%
 # Control Panel – Übersicht
 
 Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Administratoren wichtige Assets überwachen sowie administrative Aufgaben erledigen, z. B. das Verwalten der SFTP-Datenspeicherung nach Instanz oder das Verwalten von GPG-Schlüsseln bzw. Subdomains und Zertifikaten.
-
-<div id="whats-new-section">
-
-## Neue Funktionen
-
-* **[Control Panel für hybride Hosting-Modelle](/help/control-panel-for-hybrid-hosting-models.md)**
-  *Erfahren Sie, wie Sie das Control Panel für Hybrid-Hosting-Modelle von Adobe Campaign aktivieren, auf das Control Panel zugreifen und wichtige Funktionen entsperren.*
-
-* **[Überwachen von Workflows](/help/performance-monitoring/monitor-workflows.md)**
-  *Erfahren Sie, wie Sie die temporäre Speicherverwendung Ihrer Workflows überwachen und wo Sie Workflow-Einstellungen konfigurieren können, um Datenbank- oder Workflow-Probleme in Ihrer Instanz zu vermeiden.*
-
-* **[Überwachen von Durchsätzen und Latenzen](/help/performance-monitoring/monitor-throughputs-and-latency.md)**
-  *Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.*
-
-Weitere Informationen zu den neuesten Produktversionen finden Sie in den [Versionshinweisen](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=de).
-
-</div>
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
