@@ -1,5 +1,5 @@
 ---
-user-guide-title: Adobe Campaign Control Panel – Tutorials
+user-guide-title: Tutorials zum Adobe Campaign Control Panel
 user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer Adobe Campaign-Instanzen überwachen und im Control Panel administrative Aufgaben durchführen.
 breadcrumb-title: Control Panel – Tutorials
 index: true
@@ -8,17 +8,17 @@ feature: Control Panel
 role: Admin
 level: Experienced
 auto-video-transcripts: true
-source-git-commit: d2b06b5280e0bd24e3730f70857831836efca03b
-workflow-type: ht
-source-wordcount: '122'
-ht-degree: 100%
+source-git-commit: 5aa8487852e7b578dc23186a93c9b73890cdafad
+workflow-type: tm+mt
+source-wordcount: '123'
+ht-degree: 89%
 
 ---
 
 
-# Adobe Campaign Control Panel – Tutorials {#tutorials}
+# Tutorials zum Adobe Campaign Control Panel {#tutorials}
 
-+ [Control Panel](/help/control-panel-overview.md)
++ [Control Panel-Tutorials](/help/control-panel-overview.md)
 + [Erste Schritte mit dem Control Panel](/help/get-started-with-control-panel.md)
 + [Control Panel für hybride Hosting-Modelle](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-Verwaltung {#sftp-management}
@@ -39,7 +39,7 @@ ht-degree: 100%
       + [Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/instance-settings/gpg-key-management/decrypt-data.md)
-+ Leistungsüberwachung {#performance-monitoring}
++ Performance-Überwachung {#performance-monitoring}
    + [Überwachen von Datenbanken](/help/performance-monitoring/monitor-databases.md)
    + [Überwachen von Workflows](/help/performance-monitoring/monitor-workflows.md)
    + [Überwachen von Durchsätzen und Latenzen](/help/performance-monitoring/monitor-throughputs-and-latency.md)
