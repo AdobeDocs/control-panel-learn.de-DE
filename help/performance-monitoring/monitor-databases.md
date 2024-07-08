@@ -12,15 +12,15 @@ role: Admin
 level: Experienced
 exl-id: 49e2dae4-f583-40c3-b388-5333932f5084
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '97'
+workflow-type: ht
+source-wordcount: '88'
 ht-degree: 100%
 
 ---
 
 # Überwachen von Datenbanken
 
-Alle Assets, Workflows und Daten Ihrer Campaign-Instanz werden in der Datenbank gespeichert. Wenn Ihre Datenbank ihre maximale Kapazität erreicht, kann es zu Problemen mit Ihrer Instanz kommen (keine Möglichkeit, sich anzumelden, E-Mails zu senden usw.). Daher ist es wichtig, die Datenbanken Ihrer Instanzen laufend zu überwachen, um eine optimale Leistung zu gewährleisten.
+Alle Assets, Workflows und Daten Ihrer Campaign-Instanz werden in der Datenbank gespeichert. Wenn Ihre Datenbank ihre maximale Kapazität erreicht, kann es zu Problemen mit Ihrer Instanz kommen (keine Möglichkeit, sich anzumelden, E-Mails zu senden usw.). Daher ist es wichtig, die Datenbanken Ihrer Instanzen laufend zu überwachen, um eine optimale Performance zu gewährleisten.
 
 Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen mit dem [!DNL Control Panel] überwachen.
 

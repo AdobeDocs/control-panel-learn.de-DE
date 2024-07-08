@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 8a5c3c16-c7b4-413a-8606-bf5045f24ef4
 source-git-commit: b1f8f620ed5f9f5a0ee2165041a036728943fc84
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '92'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -26,7 +26,8 @@ ht-degree: 86%
 
 Um auf die Subdomain-Verwaltung im [!UICONTROL Control Panel] zuzugreifen, navigieren Sie zu:
 
-* [Experience Cloud-Homepage](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** card > **Subdomains &amp; Zertifikate** Karte oder
+* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > Karte **[!UICONTROL Control Panel]** > Karte **Subdomains und Zertifikate**
+oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Delegieren von Subdomains

@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 09d2677e-2946-440b-9df6-9824355c58e1
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '186'
+workflow-type: ht
+source-wordcount: '172'
 ht-degree: 100%
 
 ---
@@ -28,8 +28,7 @@ Im Control Panel können Sie neue Verbindungen zu Ihren Instanzen einrichten, in
 
 Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Sie zu:
 
-* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > **[!UICONTROL Control Panel]**-Karte > **Instanzeinstellungen**-Karte
-
+* [Startseite von Experience Cloud](https://experience.adobe.com/#/home) > Lösungsauswahl: **[!DNL Campaign]** > Karte **[!UICONTROL Control Panel]** > Karte **Instanzeinstellungen**
 oder
 * Direkt über die URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 

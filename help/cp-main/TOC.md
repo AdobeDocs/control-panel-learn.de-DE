@@ -1,7 +1,7 @@
 ---
 user-guide-title: Adobe Campaign Control Panel – Tutorials
 user-guide-description: Hier erfahren Sie, wie Sie die Schlüssel-Assets Ihrer Adobe Campaign-Instanzen überwachen und im Control Panel administrative Aufgaben durchführen.
-breadcrumb-title: Control Panel – Tutorials
+breadcrumb-title: Control Panel – Tutorials
 index: true
 feature-set: Campaign
 feature: Control Panel
@@ -9,16 +9,16 @@ role: Admin
 level: Experienced
 auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
 
-# Tutorials zum Adobe Campaign Control Panel {#tutorials}
+# Adobe Campaign Control Panel – Tutorials {#tutorials}
 
-+ [Control Panel – Tutorials](/help/control-panel-overview.md)
++ [Control Panel – Tutorials](/help/control-panel-overview.md)
 + [Erste Schritte mit dem Control Panel](/help/get-started-with-control-panel.md)
 + [Control Panel für hybride Hosting-Modelle](/help/control-panel-for-hybrid-hosting-models.md)
 + SFTP-Verwaltung {#sftp-management}
