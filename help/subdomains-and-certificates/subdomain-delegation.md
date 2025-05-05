@@ -34,6 +34,6 @@ oder
 
 Das folgende Video zeigt, wie Sie Subdomains delegieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/31390?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430243?learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zur Erneuerung des SSL-Zertifikats einer Subdomain finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=de).

@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie das Control Panel für hybride Hosting-Modelle von Adobe Campaign aktivieren, auf das Control Panel zugreifen und wichtige Funktionen entsperren.
 
->[!VIDEO](https://video.tv.adobe.com/v/344502?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3417567?learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der detaillierten [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/external-accounts.html?lang=de).

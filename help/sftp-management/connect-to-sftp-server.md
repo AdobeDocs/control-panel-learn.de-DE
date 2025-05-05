@@ -38,4 +38,4 @@ Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34778?learn=on&captions=ger){transcript=true}

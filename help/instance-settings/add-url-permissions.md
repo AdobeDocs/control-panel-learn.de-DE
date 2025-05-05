@@ -21,6 +21,6 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie eine Verbindung zwischen Ihrer [!DNL Adobe Campaign]-Instanz und einer externen URL herstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/28149?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34398?learn=on&captions=ger){transcript=true}
 
 Weitere Informationen finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/url-permissions.html?lang=de).

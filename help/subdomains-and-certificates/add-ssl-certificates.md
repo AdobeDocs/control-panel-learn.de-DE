@@ -40,7 +40,7 @@ Für den Erwerb eines SSL-Zertifikats ist eine Certificate Signing Request (CSR)
 
 Im folgenden Video erfahren Sie, wie Sie eine Certificate Signing Request im Control Panel generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35927?learn=on&captions=ger){transcript=true}
 
 *Certificate Signing Requests generieren (02:36 Min.)*
 
@@ -67,7 +67,7 @@ Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomains, die 
 
 Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/35926?learn=on&captions=ger){transcript=true}
 
 *SSL-Zertifikate installieren (01:25 Min.)*
 

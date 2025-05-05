@@ -23,4 +23,4 @@ Um mit Adobe Campaign E-Mails versenden oder Landingpages verÃ¶ffentlichen zu kÃ
 
 Erfahren Sie, wie Sie mithilfe ovn CNAME eine Subdomain im Control Panel einrichten und senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3450133?learn=on&captions=ger){transcript=true}

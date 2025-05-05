@@ -24,4 +24,4 @@ Um eine Verbindung zu einem Server über eine Client-Anwendung oder eine API her
 
 Erfahren Sie, wie Sie einen IP-Adressbereich zur Zulassungsliste hinzufügen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/41775?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444645?learn=on&captions=ger){transcript=true}

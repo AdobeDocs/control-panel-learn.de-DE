@@ -36,6 +36,6 @@ oder
 
 Erfahren Sie, wie Sie einen IP-Bereich mithilfe des Control Panels zu den Zulassungslisten von Adobe Campaign-Instanzen hinzufügen und wieder daraus entfernen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/28726?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31571?learn=on&captions=ger){transcript=true}
 
 Weiterführende Informationen dazu, wie Sie IP-Adressen auf die Zulassungsliste setzen, finden Sie in der [entsprechenden Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=de).

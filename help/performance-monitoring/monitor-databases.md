@@ -24,6 +24,6 @@ Alle Assets, Workflows und Daten Ihrer Campaign-Instanz werden in der Datenbank 
 
 Erfahren Sie, wie Sie die Datenbanknutzung Ihrer Instanzen mit dem [!DNL Control Panel] überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/327175?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3448849?learn=on&captions=ger){transcript=true}
 
 Weitere Informationen zur Datenbanküberwachung finden Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring/database-monitoring.html?lang=de).

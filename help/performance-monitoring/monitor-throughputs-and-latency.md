@@ -22,7 +22,7 @@ ht-degree: 100%
 
 Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3444746/?learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen
 

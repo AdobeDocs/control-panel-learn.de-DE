@@ -23,4 +23,4 @@ Um hohe Posteingangsraten und niedrige Spam-Raten zu gewährleisten, verlangen b
 
 Erfahren Sie, wie Sie [!UICONTROL Google TXT]-Site-Bestätigungseinträge zu all Ihren Subdomains hinzufügen, die Sie zum Senden von E-Mails an [!DNL GMAIL]-Adressen über das [!UICONTROL Campaign Control Panel] verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/32369?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/36745?learn=on&captions=ger){transcript=true}

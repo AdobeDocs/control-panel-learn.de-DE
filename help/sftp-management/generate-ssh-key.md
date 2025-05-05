@@ -34,4 +34,4 @@ Um auf die SFTP-Verwaltung im Control Panel zuzugreifen, navigieren Sie zu:
 
 Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal erzeugen und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/34779?learn=on&captions=ger){transcript=true}

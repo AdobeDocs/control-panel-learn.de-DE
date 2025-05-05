@@ -21,4 +21,4 @@ ht-degree: 100%
 
 Mit dem Control Panel können Sie Daten verschlüsseln, die aus Ihrer Adobe Campaign-Instanz stammen. Erfahren Sie, wie Sie zur Verschlüsselung ausgehender Daten ein Schlüsselpaar mit öffentlichem/privatem Schlüssel generieren und in einer bestimmten [!DNL Campaign]-Instanz installieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/36386?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/327882?learn=on&captions=ger){transcript=true}

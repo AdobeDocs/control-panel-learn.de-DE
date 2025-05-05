@@ -24,8 +24,8 @@ Erfahren Sie, wie Sie zur Entschlüsselung eingehender Daten einen öffentlichen
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/35753?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41349?learn=on&captions=ger){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36482?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41359?learn=on&captions=ger){transcript=true}
