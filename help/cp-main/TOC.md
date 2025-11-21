@@ -11,7 +11,7 @@ auto-video-transcripts: true
 source-git-commit: ab0593ed8c17ecb3c069a5deda990913cf43d69b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 100%
+ht-degree: 97%
 
 ---
 
@@ -34,12 +34,12 @@ ht-degree: 100%
 + Instanzeneinstellungen {#instance-settings}
    + [IP-Adressen auf die Zulassungsliste setzen](/help/instance-settings/allowlist-ip-adresses.md)
    + [Hinzufügen von URL-Berechtigungen](/help/instance-settings/add-url-permissions.md)
-   + Verwaltung von GPG-Schlüsseln {#gpg-key-management}
+   + GPG-Schlüsselverwaltung {#gpg-key-management}
       + [Verwaltung von GPG-Schlüsseln – Übersicht](/help/instance-settings/gpg-key-management/gpg-key-management-overview.md)
       + [Generieren und Installieren von GPG-Schlüsseln zur Datenverschlüsselung](/help/instance-settings/gpg-key-management/generate-and-install-gpg-keys-for-data-encryption.md)
       + [Verschlüsseln von Daten mit einem GPG-Schlüssel](/help/instance-settings/gpg-key-management/use-a-gpg-key-to-encrypt-data.md)
       + [Entschlüsseln von Daten](/help/instance-settings/gpg-key-management/decrypt-data.md)
-+ Performance-Überwachung {#performance-monitoring}
++ Überwachen der Performance {#performance-monitoring}
    + [Überwachen von Datenbanken](/help/performance-monitoring/monitor-databases.md)
    + [Überwachen von Workflows](/help/performance-monitoring/monitor-workflows.md)
    + [Überwachen von Durchsätzen und Latenzen](/help/performance-monitoring/monitor-throughputs-and-latency.md)
