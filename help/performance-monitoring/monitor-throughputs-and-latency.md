@@ -29,4 +29,4 @@ Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichte
 * [Control Panel-Dokumentation zur Durchsatz- und Latenzüberwachung](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=de#)
 * [Vorkonfigurierte Versand-Dashboards](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=de)
 * [Vorkonfigurierter Zugriff auf Transaktionsnachrichten-Berichte (nur Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=de)
-* [Best Practices für den Versand](https://experienceleague.adobe.com/en/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
+* [Best Practices für den Versand](https://experienceleague.adobe.com/de/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
