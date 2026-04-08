@@ -11,7 +11,7 @@ role: Admin
 level: Experienced
 exl-id: f7d5ff24-6181-4212-9c0a-b146a621cc0f
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
@@ -23,4 +23,4 @@ Um mit Adobe Campaign E-Mails versenden oder Landingpages verÃ¶ffentlichen zu kÃ
 
 Erfahren Sie, wie Sie mithilfe ovn CNAME eine Subdomain im Control Panel einrichten und senden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450133?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/326612?learn=on){transcript=true}

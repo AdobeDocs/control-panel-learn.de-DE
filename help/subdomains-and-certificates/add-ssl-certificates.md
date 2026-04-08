@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 7937499a-8267-4ce6-a93c-65c0c5e4e582
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '265'
+workflow-type: ht
+source-wordcount: '288'
 ht-degree: 100%
 
 ---
@@ -34,13 +34,13 @@ Um auf die Verwaltung von Subdomains im Control Panel zuzugreifen, navigieren Si
 
 Das Hinzufügen von SSL-Zertifikaten erfordert drei Schritte:
 
-### 1. Certificate Signing Requests erzeugen
+### &#x200B;1. Certificate Signing Requests generieren
 
-Für den Erwerb eines SSL-Zertifikats ist eine Certificate Signing Request (CSR) erforderlich. Sie muss für die Instanz und die Subdomains, die Sie schützen möchten, generiert werden.
+Für den Kauf eines SSL-Zertifikats ist eine Certificate Signing Request (CSR) erforderlich. Sie muss für die Instanz und die Subdomains, die Sie schützen möchten, generiert werden.
 
 Im folgenden Video erfahren Sie, wie Sie eine Certificate Signing Request im Control Panel generieren.
 
->[!VIDEO](https://video.tv.adobe.com/v/35927?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31317?learn=on){transcript=true}
 
 *Certificate Signing Requests generieren (02:36 Min.)*
 
@@ -48,26 +48,26 @@ Im folgenden Video erfahren Sie, wie Sie eine Certificate Signing Request im Con
 >
 >An der CSR-Generierung wurden verschiedene Verbesserungen vorgenommen:
 >
->* Beim Generieren einer CSR können Sie jetzt eine der eingeschlossenen Subdomains als Gebrauchsnamen auswählen.
+>* Beim Generieren einer CSR können Sie jetzt eine der enthaltenen Subdomains als Gebrauchsnamen auswählen.
 >* Sie können jetzt die CSR-Zusammenfassung kopieren, bevor Sie die CSR generieren.
->* Nachdem eine CSR generiert wurde, können Sie sie erneut aus den Vorgangslogs herunterladen. Diese Funktion gilt nicht für Zertifikate, die vor dieser Version generiert wurden.
+>* Nachdem eine CSR generiert wurde, können Sie sie erneut aus den Auftragslogs herunterladen. Diese Funktion gilt nicht für Zertifikate, die vor dieser Version generiert wurden.
 >
 >![CSR herunterladen](/help/assets/download-csr.gif)
 >
 >Weitere Informationen erhalten Sie in der [Produktdokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renew-ssl/renewing-subdomain-certificate.html?lang=de).
 >
 
-### 2- SSL-Zertifikat kaufen
+### &#x200B;2. SSL-Zertifikat kaufen
 
 Kaufen Sie nach dem Erhalt der CSR das SSL-Zertifikat von einer Zertifizierungsstelle, die von Ihrem Unternehmen validiert wurde.
 
-### 3- SSL-Zertifikate installieren
+### &#x200B;3. SSL-Zertifikate installieren
 
 Nachdem Sie das SSL-Zertifikat erhalten haben, muss es für die Subdomains, die Sie schützen möchten, installiert werden.
 
 Im folgenden Video erfahren Sie, wie SSL-Zertifikate im [!UICONTROL Control Panel]installiert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/35926?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/31166?learn=on){transcript=true}
 
 *SSL-Zertifikate installieren (01:25 Min.)*
 

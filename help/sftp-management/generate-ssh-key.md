@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 6cb4990b-448b-4a3b-8ff0-9f2fcb53ff5d
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '116'
+workflow-type: ht
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
@@ -34,4 +34,4 @@ Um auf die SFTP-Verwaltung im Control Panel zuzugreifen, navigieren Sie zu:
 
 Erfahren Sie, wie Sie einen SSH-Schlüssel mit einem Terminal erzeugen und wie Sie die öffentliche Version des Schlüssels im Control Panel speichern.
 
->[!VIDEO](https://video.tv.adobe.com/v/34779?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27259?learn=on){transcript=true}

@@ -11,8 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
 source-git-commit: 81c5210502e719d6dfe0a000c511e3da4b17275a
-workflow-type: tm+mt
-source-wordcount: '141'
+workflow-type: ht
+source-wordcount: '149'
 ht-degree: 100%
 
 ---
@@ -38,4 +38,4 @@ Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/34778?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}

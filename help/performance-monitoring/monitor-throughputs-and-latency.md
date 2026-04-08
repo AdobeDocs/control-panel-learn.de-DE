@@ -12,9 +12,9 @@ role: Admin
 level: Experienced
 exl-id: 714f9435-c3ae-4307-aa70-a810bcce7b48
 source-git-commit: ad78c9af231c9b6b1f29122d35fd80edcc7e050c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '115'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 71%
 
 Erfahren Sie, wie Sie Versanddurchsätze und Latenzen von Transaktionsnachrichten in Ihrer Kampagneninstanz überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3444746/?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/344310/?learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
-* [Control Panel-Dokumentation zur Durchsatz- und Latenzüberwachung](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=de#)
+* [Control Panel-Dokumentation zur Überwachung von Durchsätzen und Latenz](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/thoughputs-latencies.html?lang=de#)
 * [Vorkonfigurierte Versand-Dashboards](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/monitoring-deliveries/delivery-dashboard.html?lang=de)
-* [Vorkonfigurierter Zugriff auf Transaktionsnachrichten-Berichte (nur Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=de)
+* [Vorkonfigurierter Zugriff auf Berichte zu Transaktionsnachrichten (nur Campaign v7)](https://experienceleague.adobe.com/docs/campaign-classic/using/transactional-messaging/reports/about-transactional-messaging-reports.html?lang=de)
 * [Best Practices für den Versand](https://experienceleague.adobe.com/de/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices)
