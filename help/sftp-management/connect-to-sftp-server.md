@@ -11,10 +11,8 @@ role: Admin
 level: Experienced
 exl-id: 6c724a09-5083-4737-ba2c-29e021d16fc9
 TQID: https://experienceleague.adobe.com/FbtEDX--d4rHKr4-vgiF0OLqPBn8dAwgKlRnQgyb6Co
-product_v2:
-  - id: dfc56824-e8b9-499e-85d4-21aedb507314
-role_v2:
-  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+product_v2: id: dfc56824-e8b9-499e-85d4-21aedb507314
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
 workflow-type: tm+mt
 source-wordcount: 149
@@ -43,4 +41,4 @@ Für Verbindungen mit SFTP-Servern ist Folgendes erforderlich:
 
 In diesem Video wird beschrieben, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/34778?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27263?learn=on){transcript=true}
