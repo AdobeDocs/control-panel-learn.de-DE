@@ -40,4 +40,4 @@ Um die Subdomain-Verwaltung in [!UICONTROL Control Panel]aufzurufen, gehen Sie z
 
 Erfahren Sie, wie Sie die Speicherkapazität Ihrer SFTP-Server überwachen.
 
->[!VIDEO](https://video.tv.adobe.com/v/27270?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/329487?captions=ger&learn=on){transcript=true}

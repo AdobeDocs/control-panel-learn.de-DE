@@ -28,8 +28,8 @@ Erfahren Sie, wie Sie Daten mit einem im Control Panel installierten GPG-Schlüs
 
 ## Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/36380?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41335?captions=ger&learn=on){transcript=true}
 
 ## Adobe Campaign V7/V8
 
->[!VIDEO](https://video.tv.adobe.com/v/36399?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/41328?captions=ger&learn=on){transcript=true}
