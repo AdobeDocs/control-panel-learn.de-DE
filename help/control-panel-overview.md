@@ -17,9 +17,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
-source-wordcount: 229
-ht-degree: 93%
+workflow-type: ht
+source-wordcount: 259
+ht-degree: 100%
 
 ---
 
@@ -46,11 +46,9 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Admins wichtige 
     </a>
     <div>
       <a href="./subdomains-and-certificates/subdomain-delegation.md">
-    <strong>Zuweisen von Subdomains an Adobe Campaign (Video)</strong>
-    </a>
-    </div>
+    <strong>Delegieren von Subdomains an Adobe Campaign (Video)</strong></div>
     <p>
-    <em>Erfahren Sie, wie Sie eine Subdomain vollständig an Adobe Campaign delegieren.</em>
+    <em>Erfahren Sie, wie Sie eine Subdomain vollständig an Adobe Campaign delegierten.</em>
     <p>
   </td>
    <td>
@@ -59,9 +57,7 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Admins wichtige 
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Verwaltung von Google TXT-Einträgen (Videos)</strong>
-    </a>
-    </div>
+    <strong>Verwaltung von Google TXT-Einträgen (Videos)</strong></div>
     <p>
     <em> Erfahren Sie, wie Sie allen Subdomains, die zum Senden von E-Mails an GMAIL-Adressen über das Campaign Control Panel verwendet werden, Einträge der TXT-Website-Überprüfung von Google hinzufügen.</em>
     <p>
@@ -72,9 +68,7 @@ Mit dem Control Panel von Adobe Campaign können Adobe Campaign-Admins wichtige 
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Herstellen einer Verbindung zu einem SFTP-Server</strong>
-    </a>
-    </div>
+    <strong>Herstellen einer Verbindung zu einem SFTP-Server</strong></div>
     <p>
     <em>Erfahren Sie, wie Sie mithilfe einer Client-SFTP-Anwendung eine Verbindung zu Ihrem SFTP-Server herstellen und dabei die im Control Panel gespeicherten Schlüssel verwenden. </em>
     <p>

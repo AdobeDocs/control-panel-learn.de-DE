@@ -15,9 +15,9 @@ product_v2:
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
 source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 353
-ht-degree: 70%
+ht-degree: 100%
 
 ---
 
@@ -28,23 +28,23 @@ ht-degree: 70%
 ### Problem: Anmeldung bei Experience Cloud nicht möglich
 
 **Vorgehensweise:**
-Der Benutzer muss seine IMS-Organisations-ID (xxx) suchen. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil „Campaign-xxx-Admins“ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
+Die Benutzerin bzw. der Benutzer muss die eigene IMS-Org-ID (xxx) suchen. Der Administrator muss den Benutzer für jede Instanz, die er verwalten möchte, dem Profil „Campaign-xxx-Admins“ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
 
 ### Problem: Links auf der Experience Cloud-Startseite für den Zugriff auf das [!UICONTROL Control Panel] werden einem Benutzer nicht angezeigt.
 
 **Ursache:**
-Benutzer sehen die Links erst, wenn sie als Benutzer zum Produktprofil hinzugefügt werden _Campaign-xxx-Administrators/Admin_.
+Diese Links werden Benutzenden erst angezeigt, nachdem sie dem Produktprofil _Campaign-xxx-Administrators/Admin_ als Benutzende hinzugefügt wurden.
 
 **Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, _er verwalten möchte, dem Produktprofil Campaign-xxx-_&quot; hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
+Die bzw. der Admin muss die Benutzerin bzw. den Benutzer für jede Instanz, die verwaltet werden soll, dem Produktprofil _Campaign-xxx-Admins_ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
 
 ### Problem: Eine Instanz wird im [!UICONTROL Control Panel] nicht aufgeführt.
 
 **Ursache:**
-Der Benutzer muss wahrscheinlich für die fehlende Instanz *Produktprofil* Campaign _xxx-Administrators/_) hinzugefügt werden.
+Die Benutzerin bzw. der Benutzer muss wahrscheinlich für die fehlende Instanz dem Produktprofil _Campaign-xxx-Administrators/Admin_ als *Benutzer* hinzugefügt werden.
 
 **Vorgehensweise:**
-Der Administrator muss den Benutzer für jede Instanz, _er verwalten möchte, dem Produktprofil Campaign-xxx-_&quot; hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
+Die bzw. der Admin muss die Benutzerin bzw. den Benutzer für jede Instanz, die verwaltet werden soll, dem Produktprofil _Campaign-xxx-Admins_ hinzufügen. Wenn der Benutzer ein Administrator aller Instanzen ist, muss er sich dennoch selbst als Benutzer hinzufügen.
 
 ### Nützliche Videos
 
