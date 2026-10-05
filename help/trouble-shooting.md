@@ -9,18 +9,24 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 92d32589-7763-4895-8117-abfd47d808e3
-TQID: https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0
+TQID: 'https://experienceleague.adobe.com/EDjVds-2tuOo0ZwbJOBzM7marwmcIeIYuqGnMFjisv0'
 product_v2:
   - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ae9127b0-c11d-467b-903d-a84cef43f6ed
+    internal-label: Control Panel
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
-source-git-commit: 9b8483fbaa7dce7f908c79e929d3b9628fd8fa44
-workflow-type: ht
-source-wordcount: 353
-ht-degree: 100%
-
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: e4a8e51ee4016895090eb90d528d0a2707fd0225
+workflow-type: tm+mt
+source-wordcount: '355'
+ht-degree: 92%
 ---
-
 # Fehlerbehebung im [!UICONTROL Control Panel]
 
 ## Anmelden und Homepage
@@ -48,13 +54,13 @@ Die bzw. der Admin muss die Benutzerin bzw. den Benutzer für jede Instanz, die 
 
 ### Nützliche Videos
 
->[!VIDEO](https://video.tv.adobe.com/v/34928?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27183?learn=on){transcript=true}
 
-*Überprüfen der IMS-Org-ID (00:26 Min.)*
+*IMS-Organisations-ID überprüfen (00:26 Min.)*
 
->[!VIDEO](https://video.tv.adobe.com/v/34781?captions=ger&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27147?learn=on){transcript=true}
 
-*Hinzufügen von Admins zum Admin-Produktprofil zur Verwendung des [!UICONTROL Control Panel] (01:03 Min.)*
+*Hinzufügen eines Administrators zum Produktprofil-Administratoren zur Verwendung von [!UICONTROL Systemsteuerung] (01:03 Min.)*
 
 ### Nützliche Dokumentation
 
